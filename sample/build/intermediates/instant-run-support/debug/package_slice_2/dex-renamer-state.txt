@@ -1,0 +1,4 @@
+#Wed Nov 01 10:58:44 CST 2017
+base.0=D\:\\Github\\sweet-alert-dialog\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+renamed.0=classes.dex
+file.0=D\:\\Github\\sweet-alert-dialog\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\2\\classes.dex
